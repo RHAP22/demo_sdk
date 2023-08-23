@@ -1,0 +1,22 @@
+{
+  "name": "demo_sdk_rian",
+  "version": "1.0.0",
+  "description": "Anak Konda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RHAP22/demo_sdk.git"
+  },
+  "keywords": [
+    "demo_sdk"
+  ],
+  "author": "Rian Hanif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RHAP22/demo_sdk/issues"
+  },
+  "homepage": "https://github.com/RHAP22/demo_sdk#readme"
+}
